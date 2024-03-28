@@ -2,6 +2,9 @@ import java.io.*;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 
+/**
+ * @author Tom Wulf Tom.Wulf@uc.edu
+ */
 public class ReadBinaryFile
 {
 
